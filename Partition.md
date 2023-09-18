@@ -1,0 +1,3 @@
+Steps to partitions of VM with bonus!
+
+building...
